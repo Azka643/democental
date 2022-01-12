@@ -1,0 +1,2 @@
+# democental
+for git bash
